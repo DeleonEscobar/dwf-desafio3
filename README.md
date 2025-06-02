@@ -2,4 +2,4 @@ Integrante:
 Rogers Daniel Deleon Escobar DE232708
 
 Enlace video demostrativo: 
-https://drive.google.com/file/d/1CFr42TLFyuQtLr_MVWnarSoLbkj64zem/view?usp=drive_link
+https://drive.google.com/file/d/1CFr42TLFyuQtLr_MVWnarSoLbkj64zem/view?usp=sharing
